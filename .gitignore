@@ -1,0 +1,24 @@
+
+# Ignore PHPStorm project settings
+.idea
+# Ignore PHPStorm workspace settings
+*.iws
+# Ignore Visual Studio Code project settings
+.vscode
+# Ignore NetBeans project settings
+nbproject
+# Ignore IntelliJ project settings
+.idea_modules
+.out
+# Ignore Sublime Text project settings
+*.sublime-project
+*.sublime-workspace
+# Ignore Atom project settings
+.atom
+# Ignore Brackets project settings
+.brackets.json
+.brackets-user-state.json
+# Ignore Codeium project settings
+codeium
+# Ignore Composer dependencies
+/vendor
